@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;  
+
+.circle{
+    height: 24px;
+    width: 24px;
+    border-radius: 24px;
+    background-color: #b8cdf4;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
